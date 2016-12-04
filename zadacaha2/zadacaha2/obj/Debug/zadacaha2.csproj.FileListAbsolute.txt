@@ -1,0 +1,5 @@
+C:\Users\dinoz\Desktop\zadacaha2\zadacaha2\bin\Debug\zadacaha2.exe.config
+C:\Users\dinoz\Desktop\zadacaha2\zadacaha2\bin\Debug\zadacaha2.exe
+C:\Users\dinoz\Desktop\zadacaha2\zadacaha2\bin\Debug\zadacaha2.pdb
+C:\Users\dinoz\Desktop\zadacaha2\zadacaha2\obj\Debug\zadacaha2.exe
+C:\Users\dinoz\Desktop\zadacaha2\zadacaha2\obj\Debug\zadacaha2.pdb
